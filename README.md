@@ -1,8 +1,8 @@
-# 🚀 Reminder AI Scheduler
+# 🚀 Scheduler AI Whatsapp InTegration (SAWIT)
 
 ### Java Spring Boot + React UI
 
-Aplikasi **Reminder & Scheduler berbasis AI** untuk membantu mengelola tugas, pengingat, dan aktivitas harian secara otomatis dan efisien.
+Aplikasi **Scheduler AI Whatsapp InTegration (SAWIT)** untuk membantu mengelola tugas, pengingat, dan aktivitas harian secara otomatis dan efisien.
 
 Cocok digunakan untuk:
 
@@ -20,7 +20,7 @@ Cocok digunakan untuk:
 * Format rapi & singkat
 * Bahasa Indonesia
 * Bisa disesuaikan dengan kebutuhan (custom prompt)
-* Hasil dikirim ke whatsapp (Gunakan WA Gateaway nya masing masing, sudah ada setingan nya)
+* Hasil dikirim ke whatsapp (Gunakan WA Gateway nya masing masing, sudah ada setingan nya)
 
 
 ---
