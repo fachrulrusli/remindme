@@ -16,7 +16,7 @@ public class WaController {
     @GetMapping("/wa")
     public String testWA() {
         whatsappService.sendMessage(
-                "6281212813679",
+                "6281XXXXXXXXXX",
                 "Halo dari Spring Boot 🚀"
         );
 
